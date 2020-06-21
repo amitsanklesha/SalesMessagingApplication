@@ -1,0 +1,185 @@
+"C:\Program Files\Java\jdk1.8.0_211\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.1.2\lib\idea_rt.jar=54731:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.1.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;D:\WorkInProgress\CompanySalesApplication-1.0\target\classes;C:\Users\amits\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar" com.company.salesProcessingApp.SalesProcessingMain
+Application started
+
+
+
+
+*****************************
+Details of products sold after 1 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 5, Total Value/Price: 250.000000
+ProductType: MICROWAVE, Quantity sold: 5, Total Value/Price: 150.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 2 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 9, Total Value/Price: 270.000000
+ProductType: MOBILE, Quantity sold: 15, Total Value/Price: 700.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 3 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 20, Total Value/Price: 950.000000
+ProductType: MICROWAVE, Quantity sold: 14, Total Value/Price: 420.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 4 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 18, Total Value/Price: 540.000000
+ProductType: MOBILE, Quantity sold: 30, Total Value/Price: 1400.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Pausing for 5000 milliseconds to print adjustment details applied so far:
+Adjustment Details applied so far:
+ProductType: MICROWAVE, AdjustmentType: MULTIPLY, AdjustmentPrice: 2.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 5 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 35, Total Value/Price: 1650.000000
+ProductType: MICROWAVE, Quantity sold: 22, Total Value/Price: 1320.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 6 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 26, Total Value/Price: 1440.000000
+ProductType: MOBILE, Quantity sold: 45, Total Value/Price: 2100.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 7 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 50, Total Value/Price: 2350.000000
+ProductType: MICROWAVE, Quantity sold: 31, Total Value/Price: 1590.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 8 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 35, Total Value/Price: 1710.000000
+ProductType: MOBILE, Quantity sold: 60, Total Value/Price: 2800.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 9 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 65, Total Value/Price: 3050.000000
+ProductType: MICROWAVE, Quantity sold: 40, Total Value/Price: 1860.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Pausing for 5000 milliseconds to print adjustment details applied so far:
+Adjustment Details applied so far:
+ProductType: MICROWAVE, AdjustmentType: MULTIPLY, AdjustmentPrice: 2.000000
+ProductType: MOBILE, AdjustmentType: ADD, AdjustmentPrice: 2.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 10 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 44, Total Value/Price: 1980.000000
+ProductType: MOBILE, Quantity sold: 70, Total Value/Price: 3440.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 11 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 75, Total Value/Price: 3690.000000
+ProductType: MICROWAVE, Quantity sold: 49, Total Value/Price: 2130.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 12 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 53, Total Value/Price: 2250.000000
+ProductType: MOBILE, Quantity sold: 85, Total Value/Price: 4140.000000
+*****************************
+
+
+
+

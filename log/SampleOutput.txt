@@ -1,0 +1,425 @@
+"C:\Program Files\Java\jdk1.8.0_211\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.1.2\lib\idea_rt.jar=54569:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.1.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;D:\WorkInProgress\CompanySalesApplication-1.0\target\classes;C:\Users\amits\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar" com.company.salesProcessingApp.SalesProcessingMain
+Application started
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 1: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 2: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 3: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 4: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 5: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 6: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 7: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 8: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 9: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 10: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+
+
+
+
+*****************************
+Details of products sold after 1 iteration(s) of 10  sales messages each:
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 40.000000, Quantity: 5, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+ProductType: MOBILE, Quantity sold: 5, Total Value/Price: 250.000000
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+ProductType: MICROWAVE, Quantity sold: 5, Total Value/Price: 150.000000
+*****************************
+
+
+
+
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 11: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 12: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 13: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 14: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 15: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 40.000000, Quantity: 5, Operation: NONE
+Consumed Sale Number 16: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 17: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 18: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 19: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 20: Sales details: ProductType: MOBILE, Price: 40.000000, Quantity: 5, Operation: NONE
+
+
+
+
+*****************************
+Details of products sold after 2 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 9, Total Value/Price: 270.000000
+ProductType: MOBILE, Quantity sold: 15, Total Value/Price: 700.000000
+*****************************
+
+
+
+
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 2.000000, Quantity: 1, Operation: MULTIPLY
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 21: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 22: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 23: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 24: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 25: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 26: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 27: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 28: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 29: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 30: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+
+
+
+
+*****************************
+Details of products sold after 3 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 20, Total Value/Price: 950.000000
+ProductType: MICROWAVE, Quantity sold: 14, Total Value/Price: 420.000000
+*****************************
+
+
+
+
+Consumed Sale Number 31: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 32: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 33: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 34: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 40.000000, Quantity: 5, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 35: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 36: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 37: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 38: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 39: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 40: Sales details: ProductType: MOBILE, Price: 40.000000, Quantity: 5, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+
+
+
+
+*****************************
+Details of products sold after 4 iteration(s) of 10  sales messages each:
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+ProductType: MICROWAVE, Quantity sold: 18, Total Value/Price: 540.000000
+ProductType: MOBILE, Quantity sold: 30, Total Value/Price: 1400.000000
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+*****************************
+
+
+
+
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 41: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 42: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 43: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 44: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 45: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 46: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 47: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 48: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 49: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 50: Sales details: ProductType: MICROWAVE, Price: 2.000000, Quantity: 1, Operation: MULTIPLY
+Produced: Sales details: ProductType: MOBILE, Price: 40.000000, Quantity: 5, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+
+
+
+
+*****************************
+Pausing for 5000 milliseconds to print adjustment details applied so far:
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 2.000000, Quantity: 1, Operation: ADD
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Produced: Sales details: ProductType: MOBILE, Price: 40.000000, Quantity: 5, Operation: NONE
+Adjustment Details applied so far:
+ProductType: MICROWAVE, AdjustmentType: MULTIPLY, AdjustmentPrice: 2.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 5 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 35, Total Value/Price: 1650.000000
+ProductType: MICROWAVE, Quantity sold: 22, Total Value/Price: 1320.000000
+*****************************
+
+
+
+
+Consumed Sale Number 51: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 52: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 53: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 54: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 55: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 56: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 57: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 58: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 59: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 60: Sales details: ProductType: MOBILE, Price: 40.000000, Quantity: 5, Operation: NONE
+
+
+
+
+*****************************
+Details of products sold after 6 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 26, Total Value/Price: 1440.000000
+ProductType: MOBILE, Quantity sold: 45, Total Value/Price: 2100.000000
+*****************************
+
+
+
+
+Consumed Sale Number 61: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 62: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 63: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 64: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 65: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 66: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 67: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 68: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 69: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 70: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+
+
+
+
+*****************************
+Details of products sold after 7 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 50, Total Value/Price: 2350.000000
+ProductType: MICROWAVE, Quantity sold: 31, Total Value/Price: 1590.000000
+*****************************
+
+
+
+
+Consumed Sale Number 71: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 72: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 73: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 74: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 75: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 76: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 77: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 78: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 79: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 80: Sales details: ProductType: MOBILE, Price: 40.000000, Quantity: 5, Operation: NONE
+
+
+
+
+*****************************
+Details of products sold after 8 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 35, Total Value/Price: 1710.000000
+ProductType: MOBILE, Quantity sold: 60, Total Value/Price: 2800.000000
+*****************************
+
+
+
+
+Consumed Sale Number 81: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 82: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 83: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 84: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 85: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 86: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 87: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 88: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 89: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 90: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+
+
+
+
+*****************************
+Details of products sold after 9 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 65, Total Value/Price: 3050.000000
+ProductType: MICROWAVE, Quantity sold: 40, Total Value/Price: 1860.000000
+*****************************
+
+
+
+
+Consumed Sale Number 91: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 92: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 93: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 94: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 95: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 96: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 97: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 98: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 99: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 100: Sales details: ProductType: MOBILE, Price: 2.000000, Quantity: 1, Operation: ADD
+
+
+
+
+*****************************
+Pausing for 5000 milliseconds to print adjustment details applied so far:
+Adjustment Details applied so far:
+ProductType: MICROWAVE, AdjustmentType: MULTIPLY, AdjustmentPrice: 2.000000
+ProductType: MOBILE, AdjustmentType: ADD, AdjustmentPrice: 2.000000
+*****************************
+
+
+
+
+
+
+
+
+*****************************
+Details of products sold after 10 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 44, Total Value/Price: 1980.000000
+ProductType: MOBILE, Quantity sold: 70, Total Value/Price: 3440.000000
+*****************************
+
+
+
+
+Consumed Sale Number 101: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 102: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 103: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 104: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 105: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 106: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 107: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 108: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 109: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 110: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+
+
+
+
+*****************************
+Details of products sold after 11 iteration(s) of 10  sales messages each:
+ProductType: MOBILE, Quantity sold: 75, Total Value/Price: 3690.000000
+ProductType: MICROWAVE, Quantity sold: 49, Total Value/Price: 2130.000000
+*****************************
+
+
+
+
+Consumed Sale Number 111: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 112: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 113: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 114: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 115: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 116: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 117: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 118: Sales details: ProductType: MICROWAVE, Price: 30.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 119: Sales details: ProductType: MOBILE, Price: 50.000000, Quantity: 1, Operation: NONE
+Consumed Sale Number 120: Sales details: ProductType: MOBILE, Price: 40.000000, Quantity: 5, Operation: NONE
+
+
+
+
+*****************************
+Details of products sold after 12 iteration(s) of 10  sales messages each:
+ProductType: MICROWAVE, Quantity sold: 53, Total Value/Price: 2250.000000
+ProductType: MOBILE, Quantity sold: 85, Total Value/Price: 4140.000000
+*****************************
+
+
+
+

@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.company.sales</groupId>
+    <artifactId>CompanySalesApplication</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <name>CompanySalesApplication-1.0</name>
+    <url>http://maven.apache.org</url>
+    <properties>
+        <apacheCommonsVersion>4.4</apacheCommonsVersion>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-collections4</artifactId>
+            <version>${apacheCommonsVersion}</version>
+        </dependency>
+    </dependencies>
+</project>
